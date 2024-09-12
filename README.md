@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Ntwari Mike Chris Kevin
 ## 🚀 About Me
 I am a passionate software engineering student, eager to create innovative and impactful solutions. I have a solid background in Data Science, Data Analytics, 
-and Software Engineering, and am currently working on exciting projects that combine web development and API integrations.
+and Software Engineering.
 
 I believe in continuous learning and thrive on solving complex problems with elegant code. 
 Whether it's through collaborative work or solo projects, I aim to leave a lasting impact on every project I touch.
